@@ -10,7 +10,7 @@ Trabaja **byte a byte** sobre los archivos reales del juego (`.ydd` · `.yft` ·
 No remodela, no esculpe, no reinventa: **adapta, valida y empaqueta** conservando el original intacto.
 
 [![Descargar](https://img.shields.io/badge/⬇️_DESCARGAR-GitHub_Release-2ea44f?style=for-the-badge)](https://github.com/triumfivem-sys/TRIUM-Skel-Studio/releases/latest)
-[![MEGA](https://img.shields.io/badge/⬇️_Espejo-MEGA-d9272e?style=for-the-badge)](https://mega.nz/file/zA4XQIhb#RIaZEPoyRL3eHrBvEv4JHlzFL2Su0Zs3i9J4F3TT1F0)
+[![MEGA](https://mega.nz/file/OZoESQDA#c3gHAFpk-8Seq0AXXuFKINYtANUBOnSvPQ6C31B8uHs)
 [![Discord](https://img.shields.io/badge/Soporte-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z5EwHNPccW)
 
 </div>
