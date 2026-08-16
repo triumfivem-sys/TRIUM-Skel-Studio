@@ -22,7 +22,7 @@ No remodela, no esculpe, no reinventa: **adapta, valida y empaqueta** conservand
 | Fuente | Enlace |
 |--------|--------|
 | **GitHub (recomendado)** | [Última versión → Releases](https://github.com/triumfivem-sys/TRIUM-Skel-Studio/releases/latest) |
-| **MEGA (espejo)** | [Descargar de MEGA](https://mega.nz/file/KJ5XzYZA#3RiQsr_aKPpjYgY2Hspe5p59OTFlIRPjPSiFFFDHUzo) |
+| **MEGA (espejo)** | [Descargar de MEGA](https://mega.nz/file/OZoESQDA#c3gHAFpk-8Seq0AXXuFKINYtANUBOnSvPQ6C31B8uHs) |
 
 Descarga `TRIUM_Skel_Studio_Setup_1.1.0.exe`, instálalo (no necesita .NET, ya lo lleva dentro) y acepta el EULA en el primer arranque. **Windows 10/11 de 64 bits.**
 
