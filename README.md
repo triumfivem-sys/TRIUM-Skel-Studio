@@ -10,7 +10,7 @@ Trabaja **byte a byte** sobre los archivos reales del juego (`.ydd` · `.yft` ·
 No remodela, no esculpe, no reinventa: **adapta, valida y empaqueta** conservando el original intacto.
 
 [![Descargar](https://img.shields.io/badge/⬇️_DESCARGAR-GitHub_Release-2ea44f?style=for-the-badge)](https://github.com/triumfivem-sys/TRIUM-Skel-Studio/releases/latest)
-[![MEGA](https://mega.nz/file/OZoESQDA#c3gHAFpk-8Seq0AXXuFKINYtANUBOnSvPQ6C31B8uHs)
+[![MEGA](https://mega.nz/file/eNhnGJyJ#8_mcmuJUwy0xBvOsFMGhc0BKemzsSWsLb9k1UDTQaqw))
 [![Discord](https://img.shields.io/badge/Soporte-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z5EwHNPccW)
 
 </div>
@@ -22,7 +22,7 @@ No remodela, no esculpe, no reinventa: **adapta, valida y empaqueta** conservand
 | Fuente | Enlace |
 |--------|--------|
 | **GitHub (recomendado)** | [Última versión → Releases](https://github.com/triumfivem-sys/TRIUM-Skel-Studio/releases/latest) |
-| **MEGA (espejo)** | [Descargar de MEGA](https://mega.nz/file/OZoESQDA#c3gHAFpk-8Seq0AXXuFKINYtANUBOnSvPQ6C31B8uHs) |
+| **MEGA (espejo)** | [Descargar de MEGA](https://mega.nz/file/eNhnGJyJ#8_mcmuJUwy0xBvOsFMGhc0BKemzsSWsLb9k1UDTQaqw) |
 
 Descarga `TRIUM_Skel_Studio_Setup_1.1.0.exe`, instálalo (no necesita .NET, ya lo lleva dentro) y acepta el EULA en el primer arranque. **Windows 10/11 de 64 bits.**
 
